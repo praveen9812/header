@@ -35,3 +35,7 @@
 	margin: auto;
 	text-align: center;
 }
+.headericon i{
+	padding-left: 30px;
+	font-size: 20px;
+}
