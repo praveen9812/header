@@ -24,3 +24,14 @@
   background-color: rgb(0, 0, 0);
   border-radius: none;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 25px;
+}
+.sear {
+	flex-basis: 33.3%;
+	margin: auto;
+	text-align: center;
+}
